@@ -1,11 +1,11 @@
-name: Bug Report
-description: File a bug report
+name: Feature Request
+description: Suggest a feature for this project
 title: "[Bug]: "
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to suggest a feature!
   - type: input
     id: contact
     attributes:
